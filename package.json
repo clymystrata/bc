@@ -1,0 +1,26 @@
+{
+  "name": "bc.clymystrata.org",
+  "version": "1.0.0",
+  "description": "web application for UNC Bootcamp",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clymystrata/bc.git"
+  },
+  "author": "RSMellow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clymystrata/bc/issues"
+  },
+  "homepage": "https://github.com/clymystrata/bc#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "csv-parse": "^1.2.0",
+    "express": "^4.15.3",
+    "node-mysql": "^0.4.2"
+  }
+  
+}

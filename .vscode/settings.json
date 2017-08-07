@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    //"terminal.integrated.shell.windows": "C:\\windows\\sysnative\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
+    
+}
